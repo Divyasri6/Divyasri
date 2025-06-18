@@ -46,23 +46,11 @@ T/Z test recommender powered by OpenAI — helps users interpret their data with
 ### [💬 English to SQL via AI](https://github.com/Divyasri6/CONVERTING-ENGLISH-TO-SQL-USING-GENERATIVE-AI-)  
 Converts human language to SQL queries using prompt engineering and LLama via LangChain.
 
----
-
-## 📚 More Projects
-
 ### [☁️ IBM Cloud App Capstone](https://github.com/Divyasri6/Cloud-App-Capstone) *(if available)*  
 Full stack app with user authentication, API integration, and containerized deployment on IBM Cloud using Watson NLU.
 
 ### [🛡️ Secure Two-Cloud Database](https://github.com/Divyasri6/secure-2cloud-db) *(if available)*  
 Privacy-preserving database architecture using ElGamal Cryptosystem for secure computation over encrypted data in two non-colluding clouds.
-
-### [🔍 AI Resume Parser (LangChain)](https://github.com/Divyasri6/AI-Resume-Parser) *(if available)*  
-Extracts and classifies structured data from resumes using LLM and prompt chaining for automated candidate screening.
-
-### [📊 Streamlit Data Dashboard](https://github.com/Divyasri6/streamlit-data-dashboard) *(if available)*  
-Interactive dashboard for visualizing data with filters, charts, and custom queries.
-
----
 
 ## 🎓 Education & Certifications
 
