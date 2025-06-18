@@ -40,16 +40,16 @@ AI assistant that answers questions from PDFs using LangChain and Google’s Gen
 ### [🏠 AI Agents for House Search](https://github.com/Divyasri6/AI_agents_for_-house_search)  
 CrewAI + LangChain agents automate property search workflows using geolocation & filters.
 
-### [🧪 Hypothesis Testing Tool](https://github.com/Divyasri6/hypothesis-testing-using-ai)  
+### [🧪 Hypothesis Testing Tool](https://github.com/Divyasri6/Hypothesis-Testing--using-AI)  
 T/Z test recommender powered by OpenAI — helps users interpret their data with ease.
 
 ### [💬 English to SQL via AI](https://github.com/Divyasri6/CONVERTING-ENGLISH-TO-SQL-USING-GENERATIVE-AI-)  
 Converts human language to SQL queries using prompt engineering and LLama via LangChain.
 
-### [☁️ IBM Cloud App Capstone](https://github.com/Divyasri6/Cloud-App-Capstone)   
+### [☁️ IBM Cloud App Capstone](https://github.com/Divyasri6/agfzb-CloudAppDevelopment_Capstone)   
 Full stack app with user authentication, API integration, and containerized deployment on IBM Cloud using Watson NLU.
 
-### [🛡️ Secure Two-Cloud Database](https://github.com/Divyasri6/secure-2cloud-db)  
+### 🛡️ Secure Two-Cloud Database
 Privacy-preserving database architecture using ElGamal Cryptosystem for secure computation over encrypted data in two non-colluding clouds.
 
 ## 🎓 Education & Certifications
