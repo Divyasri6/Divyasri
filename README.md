@@ -4,7 +4,11 @@
 🎯 Passionate about building intelligent, scalable, user-focused applications
 
 ---
-
+<p align="center">
+  <img src="YOUR_PROFILE_PICTURE_URL_HERE" 
+       alt="Divyasri Vemula Profile Picture" 
+       style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 4px solid #007bff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+</p>
 ## 👩‍💻 About Me
 
 I'm a software engineer with a strong interest in **AI-powered** and **cloud-native** applications.  
